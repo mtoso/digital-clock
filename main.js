@@ -1,5 +1,5 @@
 function updateClock(clock, clockDigitsElements) {
-    // segments that have to be OFF to rappresent the number
+    // segments that have to be OFF to represent the number
     const numbersToSegments = {
         '0': [4],
         '1': [1, 2, 4, 5, 7],
